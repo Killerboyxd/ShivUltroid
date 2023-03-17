@@ -2,7 +2,7 @@
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>Shiv - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
@@ -133,4 +133,4 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+> Made with 💕 by [@ll_SABKA_BHAI_KILLER_ll](https://t.me/ll_SABKA_BHAI_KILLER_ll).    
